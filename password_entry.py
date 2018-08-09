@@ -1,5 +1,5 @@
 """Peter Stone"""
-
+poke
 password = input("password: ")
 while len(password) < 5:
     password = input("invalid password ")
